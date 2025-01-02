@@ -163,3 +163,5 @@ imblearn~=0.0
 prettytable~=3.10.0
 
 Open Python file in Pycharm and run
+Below is the drive link for the data set and presentation
+https://drive.google.com/drive/u/2/folders/12BY4rFF3FWEjedzRzndTZTSteMC8Ai2G
